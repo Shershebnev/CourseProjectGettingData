@@ -1,7 +1,6 @@
----
-title: "README.md"
-output: html_document
----
+
+## README.md
+
 
 1. Load the data. Paths in script are preset for the case when zip file was unzipped into working directory
 
